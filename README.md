@@ -118,7 +118,7 @@ python main.py
 
 | Main Menu | Gameplay | Game Over |
 |-----------|----------|-----------|
-| Add Image | Add Image | Add Image |
+| ![Main Menu](https://github.com/chiragpoddar007/2D-Game/blob/main/assets/Image/main_screen.png) | ![Gameplay](https://github.com/chiragpoddar007/2D-Game/blob/main/assets/Image/game_screen.png) | ![Game Over](https://github.com/chiragpoddar007/2D-Game/blob/main/assets/Image/gameover_screen.png) |
 
 ---
 
