@@ -1,0 +1,30 @@
+# Screen
+WIDTH = 800
+HEIGHT = 600
+FPS = 60
+
+# Player
+PLAYER_SPEED = 8
+
+# Bullet
+BULLET_SPEED = 9
+BULLET_WIDTH = 10
+BULLET_HEIGHT = 20
+
+# Enemy
+ENEMY_MIN_SPEED = 4
+ENEMY_MAX_SPEED = 7
+ENEMY_SPAWN_DELAY = 1000
+
+# Colors
+WHITE = (255,255,255)
+RED = (255,0,0)
+BLACK = (0,0,0)
+
+# UI Colors
+PRIMARY = (138,43,226)      # Purple
+SECONDARY = (75,0,130)      # Dark Indigo
+ACCENT = (255,105,180)      # Neon Pink
+BUTTON_COLOR = (60,20,90)   # Deep Purple
+HOVER_COLOR = (100,40,160)  # Brighter Purple
+TEXT_COLOR = (255,255,255)  # White
